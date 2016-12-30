@@ -1,7 +1,6 @@
 # 2732 <--> 2532 adapter
 
-Taken from here:
-http://www.neoncluster.com/aamber_pegasus/Blog/Entries/2010/5/5_2532_to_2732_and_visa_versa_adaptor..html
+Taken from here: [2532 to 2732 adaptor](http://www.neoncluster.com/aamber_pegasus/Blog/Entries/2010/5/5_2532_to_2732_and_visa_versa_adaptor..html)
 
 This product is intended to allow a 2732 EPROM to be placed into  a 2532 EPROM socket or a 2532 EPROM to  be  placed  into a 2732 EPROM socket.
 Fitting I.C. pins for IC1 and a socket for IC2 allows a 2732 to be plugged into a 2532 socket,
