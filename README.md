@@ -28,5 +28,5 @@ In most cases, permissions will be granted Royalty Free. I said we like to share
 If you would like to include this product as part of your  website, feel free to do so,  as  long  as all documentation remains intact.
 We do ask that you inform us that you have included  this  file  on your site so our ego's may get  a bit larger :-)
 
-Enjoy - John & Robert
+Enjoy - John & Robert. 
 Son & Father
