@@ -1,5 +1,16 @@
 # 2732 <--> 2532 adapter
 
+## Update
+
+Original projected moved to Github:
+https://github.com/TheLittleEngineers/2732-to-2532
+
+And a newer version is here:
+https://github.com/TheLittleEngineers/27C512E-TO-2532S-V1R1.20.APRIL.2019
+
+New license: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+
+## Old
 _Original taken from here: [2532 to 2732 adaptor](http://www.neoncluster.com/aamber_pegasus/Blog/Entries/2010/5/5_2532_to_2732_and_visa_versa_adaptor..html)_
 
 This product is intended to allow a 2732 EPROM to be placed into  a 2532 EPROM socket or a 2532 EPROM to  be  placed  into a 2732 EPROM socket.
